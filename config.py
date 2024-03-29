@@ -6,8 +6,8 @@ load_dotenv()
 API_ID = 1747534
 API_HASH = "5a2684512006853f2e48aca9652d83ea"
 
-BOT_TOKEN = "6453838005:AAFFTBlDOZMiOFi9J1eRPayFo0Yrh4PB03M"
-OWNER_ID = 5185687626
+BOT_TOKEN = "7080419510:AAGga5Kfmhde42IVbhBejdJ1YLoIqbst6LM"
+OWNER_ID = 6775943525
 
-MONGO_DB_URI = "mongodb+srv://kanha:kanha@cluster0.ofwoggc.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://kanhag:kanhag@cluster0.u5qvym7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 MUST_JOIN = "None"
