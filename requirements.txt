@@ -6,4 +6,4 @@ pyrogram
 python-dotenv==0.21.0
 telethon
 TgCrypto==1.2.5
-pyrogram1
+pyrogram1==0.1.0
